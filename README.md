@@ -1,6 +1,8 @@
 ![](https://github.com/jessicasaule/jessicasaule/blob/52ddd2142c8ca6d46260a87bcf1151dd9dc217e6/github%20banner.png)
 <h1 align="center"> :star: Full Stack Developer :star: </h1>
 
+I am a curious person who enjoys solving problems and working in all kind of projects. Every day is an opportunity to learn something new! :sparkles:
+
 ### :computer: Languages:
 
 :heavy_check_mark: HTML5 | CSS3 | SASS
