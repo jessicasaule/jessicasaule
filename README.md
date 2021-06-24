@@ -14,3 +14,14 @@ I am a curious person who enjoys solving problems and working in all kind of pro
 :heavy_check_mark: Nodejs | Express
 
 :heavy_check_mark: MySQL | PostreSQL
+
+
+<hr />
+
+### :pushpin: Projects
+
+<h5 align="center">Henry Videogames</h5>
+
+<p align="center"><img src="https://github.com/jessicasaule/jessicasaule/blob/06a200b26fca4b73157dceff8bd3278877037507/homepage.jpg" width="400" /></p>
+<p align="center"><img src="https://github.com/jessicasaule/jessicasaule/blob/06a200b26fca4b73157dceff8bd3278877037507/allvideogames.jpg" width="400" /></p>
+<p align="center"><img src="https://github.com/jessicasaule/jessicasaule/blob/06a200b26fca4b73157dceff8bd3278877037507/detailpage.jpg" width="400" /></p>
