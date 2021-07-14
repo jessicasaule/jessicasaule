@@ -25,3 +25,10 @@ I am a curious person who enjoys solving problems and working in all kind of pro
 <p align="center"><img src="https://github.com/jessicasaule/jessicasaule/blob/06a200b26fca4b73157dceff8bd3278877037507/homepage.jpg" width="400" /></p>
 <p align="center"><img src="https://github.com/jessicasaule/jessicasaule/blob/06a200b26fca4b73157dceff8bd3278877037507/allvideogames.jpg" width="400" /></p>
 <p align="center"><img src="https://github.com/jessicasaule/jessicasaule/blob/06a200b26fca4b73157dceff8bd3278877037507/detailpage.jpg" width="400" /></p>
+
+
+<h5 align="center">K-Mora Accesories e-commerce</h5>
+
+[![Alt text](https://img.youtube.com/vi/QoSK1GlyrxU/0.jpg)](https://www.youtube.com/watch?v=QoSK1GlyrxU)
+
+
